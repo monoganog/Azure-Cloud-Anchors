@@ -21,5 +21,9 @@ EditorBuildSettings:
     path: Assets/AzureSpatialAnchors.Examples/Scenes/AzureSpatialAnchorsCoarseRelocDemo.unity
     guid: 215a1784376860644a66e82f3d383b85
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5fa389be514ec8b4791fe5c2de1a7362,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 11e38267b8fc8e446a3f8f88c2bb5c9c,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7df0b96c1aa1aad4d8170be2bd301ee3,
       type: 2}
